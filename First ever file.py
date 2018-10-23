@@ -1,0 +1,5 @@
+Firstname=input()
+LastName=input()
+Age=int(input())
+Town=input()
+print('You are %s %s, %d years old, from %s'%(Firstname,LastName,Age,Town))
